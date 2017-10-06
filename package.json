@@ -1,0 +1,19 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI is a command line node app that takes in parameters and gives you back data, something similar to siri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamSoma/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamSoma/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/IamSoma/liri-node-app#readme"
+}
