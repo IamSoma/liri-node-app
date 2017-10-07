@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/IamSoma/liri-node-app/issues"
   },
-  "homepage": "https://github.com/IamSoma/liri-node-app#readme"
+  "homepage": "https://github.com/IamSoma/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "node-spotify-api": "^1.0.5",
+    "twitter": "^1.7.1"
+  }
 }
